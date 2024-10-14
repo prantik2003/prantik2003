@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Apache Kafka, etc.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-main-gamma-ashen.vercel.app/](https://portfolio-main-gamma-ashen.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app/](https://iam-prantik.vercel.app/)
 
 - 💬 Ask me about **Java SpringBoot, NodeJS**
 

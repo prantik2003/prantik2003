@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantik2003" alt="prantik2003" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Kafka, Redis, React Native etc.**
+- 🌱 I’m currently learning **Apache Kafka, Redis, etc.**
 
-- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app/](https://iam-prantik.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app/](https://iam-prantik.vercel.app)
 
 - 💬 Ask me about **Java SpringBoot, NodeJS, ReactJS**
 

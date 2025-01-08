@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Apache Kafka, Redis, etc.**
 
-- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app](https://iam-prantik.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://iam-prantik.vercel.app)
 
 - 💬 Ask me about **Java SpringBoot, NodeJS, ReactJS**
 

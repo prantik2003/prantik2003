@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Apache Kafka, Redis, etc.**
 
-- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app/](https://iam-prantik.vercel.app)
+- 👨‍💻 All of my projects are available at [https://iam-prantik.vercel.app](https://iam-prantik.vercel.app)
 
 - 💬 Ask me about **Java SpringBoot, NodeJS, ReactJS**
 
 - 📫 How to reach me **guinprantik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ileui0JfVx7XW06WAVgd6XescxnRcd-K/view]([https://drive.google.com/file/d/1Ileui0JfVx7XW06WAVgd6XescxnRcd-K/view])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ileui0JfVx7XW06WAVgd6XescxnRcd-K/view](https://drive.google.com/file/d/1Ileui0JfVx7XW06WAVgd6XescxnRcd-K/view)
 
 - ⚡ Fun fact **I make jokes when I'm uncomfortable**
 

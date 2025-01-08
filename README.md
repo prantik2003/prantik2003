@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantik2003" alt="prantik2003" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Kafka, Redis, etc.**
+- 🌱 I’m currently learning **Apache Kafka, Redux, etc.**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://iam-prantik.vercel.app)
 

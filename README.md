@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **guinprantik@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1wBUxl74Ou1gIqERK0aKQdKjZ-4DwOs94/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1pQezMTAnMVxWLG4c-tJbi5KgJVX_S5Ft/view)
 
 - ⚡ Fun fact **I make jokes when I'm uncomfortable**
 

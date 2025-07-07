@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prantik2003" alt="prantik2003" /></a> </p>
 
-- 🌱 I’m currently learning **Apache Kafka, Redux, etc.**
+- 🌱 I’m currently learning **Redux, Microservices etc.**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://iam-prantik.vercel.app)
 
-- 💬 Ask me about **Java SpringBoot, NodeJS, ReactJS**
+- 💬 Ask me about **NoSQL Databases, NodeJS, ReactJS**
 
 - 📫 How to reach me **guinprantik@gmail.com**
 
